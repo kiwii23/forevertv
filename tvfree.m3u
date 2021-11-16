@@ -102,5 +102,27 @@ https://visionplus-stream.visionplus.id/live/eds/SCTV-intel/sa_hls/SCTV-intel.m3
 #EXTINF:-1 group-title="INDONESIA HD" tvg-logo="https://i.ibb.co/tpdTH3m/antvlogo.png",ANTV
 https://visionplus-stream.visionplus.id/live/eds/ANTV-radeon/sa_hls/ANTV-radeon.m3u8
 
+#EXTM3U
+#EXTINF:-1 group-title="SPORT" tvg-logo="https://fr.m.wikipedia.org/wiki/Fichier:Logo_beIN_SPORTS_1.png ",AR: beIN Sport 1HD
+http://88.barouhn.xyz.global.prod.fastly.net/live/616165500/index.m3u8
 
+#EXTM3U
+#EXTINF:-1 group-title="SPORT" tvg-logo="https://commons.m.wikimedia.org/wiki/File:Logo_bein_sports_2.png ",AR: beIN Sport 2HD
+http://88.barouhn.xyz.global.prod.fastly.net/live/61619498700/index.m3u8 
+
+#EXTM3U
+#EXTINF:-1 group-title="SPORT" tvg-logo="https://commons.m.wikimedia.org/wiki/File:Logo_bein_sports_3.png ",AR: beIN Sport 3HD
+http://88.barouhn.xyz.global.prod.fastly.net/live/615127888700/index.m3u8
+
+#EXTM3U
+#EXTINF:-1 group-title="SPORT" tvg-logo="https://commons.m.wikimedia.org/wiki/File:Logo_bein_sports_4.png ",AR: beIN Sport 4HD
+http://88.barouhn.xyz.global.prod.fastly.net/live/9787488847/index.m3u8
+
+#EXTM3U
+#EXTINF:-1 group-title="SPORT" tvg-logo="https://logos.fandom.com/wiki/BeIN_Sports_5?file=BS5.svg ",AR: beIN Sport 5HD
+http://55.banrhfour.xyz.global.prod.fastly.net/live/610303030/index.m3u8
+
+#EXTM3U
+#EXTINF:-1 group-title="SPORT" tvg-logo="https://www.pinterest.es/pin/587086501420689913#imgViewer ",AR: beIN Sport 6HD
+http://55.banrhfour.xyz.global.prod.fastly.net/live/1515000000/index.m3u8
 
