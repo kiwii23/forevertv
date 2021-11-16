@@ -8,7 +8,7 @@ https://fta.rctiplus.id/live/eds/MNCTV_2021/live_fta/MNCTV_2021.m3u8
 
 #EXTM3U
 #EXTINF:-1 group-title="MALAYSIA" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f5/TV3_%28Malaysia%29.svg/1024px-TV3_%28Malaysia%29.svg.png",TV 3
-https://stream-02.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHScibLw0wiAX7Z_Tqd0NjRw)/dm/3/x6qp375/d/live-2.m3u8#cell=lsg1
+http://50.7.161.82:8278/streams/d/TV3/playlist.m3u8
 
 #EXTM3U
 #EXTINF:-1 group-title="MALAYSIA" tvg-logo="https://logos.fandom.com/wiki/Astro_Ceria?file=Astro_Ceria_HD.png",ASTRO CERIA
@@ -56,8 +56,51 @@ https://cdngb196.useetv.com/joss/130/rtv/chunklist_w816199025_b1004100_sleng.m3u
 
 #EXTM3U
 #EXTINF:-1 group-title="KID" tvg-logo="https://commons.m.wikimedia.org/wiki/File:2014_Disney_Channel_logo.svg",DISNEY CHANNEL
-http://content-aeui1.uplynk.com/channel/d75941e582c04e68bb32d3190283d3ae/g.m3u8?exp=1637033274&ct=c&cid=d75941e582c04e68bb32d3190283d3ae&expand=drmOff&iph=ac634481877dba0965cf4611c934ac1be530afc278fd79148b7c23727ecc9375&euid=C13F6ACF-3EFC-43C9-9E34-7A0E0A979F62_000_1_031-04_live_03-02-99_1.1.7.17&cdn=ec&cdn=ec&stgcfg=datg&rays=hjigfedcba&pp2ip=0&delay=10800&v=3&sig=e15b86af2feb59867fc590af78f9684f3774d85fac885baa93239c93e04b7b71&pbs=79504a17079746c6a5155b1133679bd5
+http://content-zeuuks-up-1.uplynk.com/channel/4c12214efbd6489a9d06f67798719023/d.m3u8?exp=1637057208&ct=c&cid=4c12214efbd6489a9d06f67798719023&expand=drmOff&iph=ce0e38833e9b4b35d9e24e9b3014a45f98be62a38f2e6e88ad23d67d8123f30e&euid=FD0D94FD-9C7F-450D-B099-A0AD330D2502_000_1_031-04_live_05-02-99_1.1.7.17&cdn=ec&cdn=ec&stgcfg=datg&rays=hjigfedcba&pp2ip=0&delay=10800&ad=disneynow_live&ad.tfcd=1&ad.cust_params=chan%3Ddisneyxd%26beacTyp%3Dssai%26sp%3Dvdms%26ait%3Dssai%26vdm%3Dlive%26var%3D16x9%26accesslevel%3D1%26isAuth%3D0%26isAutoplay%3D1%26ul%3Den%26transID%3DrdKtXVqTkboOfwj9jLmB_roJq6m2EEoWYGGh476Wc9Wxtyc-oiv3Zw%253D%253D%26aff%3D%26plt%3Dandroid%26swid%3DFD0D94FD-9C7F-450D-B099-A0AD330D2502%26ip%3D64.62.204.183%26hip%3Dce0e38833e9b4b35d9e24e9b3014a45f98be62a38f2e6e88ad23d67d8123f30e%26nlsnDevGrp%3Ddevgrp%252CPHN%26nlsnPlat%3DPLT%252CMBL&ad.adUnit=/disney-xd/disney-now-app/android/video&ad.sssb=0&ad.pp=datg-live-vdms&ap.use=0&ad.vip=64.62.204.183&ad.vast3=1&ad.ssss=vdms&ad.networkId=21783347309&ad.sz=640x480&ad.same_scor=1&ad.url=https://disneynow.go.com&ad.vid=@external_id&ad.ppid=FD0D94FD-9C7F-450D-B099-A0AD330D2502&ad.description_url=https://disneynow.go.com&ad.cmsid=2494279&v=3&sig=dc9e83b615ea05ce2e4c613e87baed297055a9dab3b742546b60a2eb98c67218&pbs=6b5081b426f0439690b318ce549c765b
 
 #EXTM3U
 #EXTINF:-1 group-title="KID" tvg-logo="https://commons.m.wikimedia.org/wiki/File:Logo_Disney_XD.png",DISNEY XD
-http://content-aeuf1.uplynk.com/channel/4c12214efbd6489a9d06f67798719023/g.m3u8?exp=1637033015&ct=c&cid=4c12214efbd6489a9d06f67798719023&expand=drmOff&iph=ac634481877dba0965cf4611c934ac1be530afc278fd79148b7c23727ecc9375&euid=2522192C-7002-4C4C-A470-C7706D70BE7E_000_1_031-04_live_05-02-99_1.1.7.17&cdn=ec&cdn=ec&stgcfg=datg&rays=hjigfedcba&pp2ip=0&delay=10800&ad=disneynow_live&ad.tfcd=1&ad.cust_params=chan%3Ddisneyxd%26beacTyp%3Dssai%26sp%3Dvdms%26ait%3Dssai%26vdm%3Dlive%26var%3D16x9%26accesslevel%3D1%26isAuth%3D0%26isAutoplay%3D1%26ul%3Den%26transID%3Ds-CbezN9QP84WRHbEY9HcIL1zhN25cvoM80a_dyjsvwubCFER7MJiA%253D%253D%26aff%3D%26plt%3Dandroid%26swid%3D2522192C-7002-4C4C-A470-C7706D70BE7E%26ip%3D64.62.204.145%26hip%3Dac634481877dba0965cf4611c934ac1be530afc278fd79148b7c23727ecc9375%26nlsnDevGrp%3Ddevgrp%252CPHN%26nlsnPlat%3DPLT%252CMBL&ad.adUnit=/disney-xd/disney-now-app/android/video&ad.sssb=0&ad.pp=datg-live-vdms&ap.use=0&ad.vip=64.62.204.145&ad.vast3=1&ad.ssss=vdms&ad.networkId=21783347309&ad.sz=640x480&ad.same_scor=1&ad.url=https://disneynow.go.com&ad.vid=@external_id&ad.ppid=2522192C-7002-4C4C-A470-C7706D70BE7E&ad.description_url=https://disneynow.go.com&ad.cmsid=2494279&v=3&sig=24496b34a1bd54dbcea825177fc31e006da6d73dabf021423fc274c98c91fd2a&pbs=c4b8a5ab3b554d629e7bbddd314ebbe4
+http://content-zeuuks-up-1.uplynk.com/channel/4c12214efbd6489a9d06f67798719023/b.m3u8?exp=1637057208&ct=c&cid=4c12214efbd6489a9d06f67798719023&expand=drmOff&iph=ce0e38833e9b4b35d9e24e9b3014a45f98be62a38f2e6e88ad23d67d8123f30e&euid=FD0D94FD-9C7F-450D-B099-A0AD330D2502_000_1_031-04_live_05-02-99_1.1.7.17&cdn=ec&cdn=ec&stgcfg=datg&rays=hjigfedcba&pp2ip=0&delay=10800&ad=disneynow_live&ad.tfcd=1&ad.cust_params=chan%3Ddisneyxd%26beacTyp%3Dssai%26sp%3Dvdms%26ait%3Dssai%26vdm%3Dlive%26var%3D16x9%26accesslevel%3D1%26isAuth%3D0%26isAutoplay%3D1%26ul%3Den%26transID%3DrdKtXVqTkboOfwj9jLmB_roJq6m2EEoWYGGh476Wc9Wxtyc-oiv3Zw%253D%253D%26aff%3D%26plt%3Dandroid%26swid%3DFD0D94FD-9C7F-450D-B099-A0AD330D2502%26ip%3D64.62.204.183%26hip%3Dce0e38833e9b4b35d9e24e9b3014a45f98be62a38f2e6e88ad23d67d8123f30e%26nlsnDevGrp%3Ddevgrp%252CPHN%26nlsnPlat%3DPLT%252CMBL&ad.adUnit=/disney-xd/disney-now-app/android/video&ad.sssb=0&ad.pp=datg-live-vdms&ap.use=0&ad.vip=64.62.204.183&ad.vast3=1&ad.ssss=vdms&ad.networkId=21783347309&ad.sz=640x480&ad.same_scor=1&ad.url=https://disneynow.go.com&ad.vid=@external_id&ad.ppid=FD0D94FD-9C7F-450D-B099-A0AD330D2502&ad.description_url=https://disneynow.go.com&ad.cmsid=2494279&v=3&sig=dc9e83b615ea05ce2e4c613e87baed297055a9dab3b742546b60a2eb98c67218&pbs=6b5081b426f0439690b318ce549c765b
+
+#EXTM3U
+#EXTINF:-1 group-title="MALAYSIA" tvg-logo="https://www.pngkit.com/png/detail/306-3060086_astro-warna-2017-logo-astro-warna.png",ASTRO WARNA
+http://50.7.161.82:8277/streams/d/warnahd_pye/playlist.m3u8
+
+#EXTM3U
+#EXTINF:-1 group-title="MALAYSIA" tvg-logo="https://telegra.ph/file/92cec2d7aec1e554f572b.jpg",BOO
+http://50.7.161.82:8278/streams/d/Boo/playlist.m3u8
+
+#EXTM3U
+#EXTINF:-1 group-title="MOVIE" tvg-logo="https://static.epg.best/us/HBO.us.png",HBO
+http://50.7.161.82:8278/streams/d/Hbo/playlist.m3u8
+
+#EXTM3U
+#EXTINF:-1 group-title="MOVIE" tvg-logo="https://i.imgur.com/oPnzAPC.png",GALAXY TV
+https://content.uplynk.com/channel/f467430e4a8e49a59ff3183cf51092b2.m3u8
+
+#EXTM3U
+#EXTINF:-1 group-title="KOREA" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_109.png",TVN Movies
+http://210.210.155.35:80/dr9445/h/h21/01.m3u8
+
+#EXTM3U
+#EXTINF:-1 group-title="KNOWLEDGE" tvg-logo="https://www.useetv.com/assets/images/channel/logo_natgeo_small.png",NAT GEO WILD
+http://50.7.161.82:8278/streams/d/Natgeowild/playlist.m3u8
+
+#EXTM3U
+#EXTINF:-1 group-title="KNOWLEDGE" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/1d/Love_Nature_TV.png/170px-Love_Nature_TV.png",LOVE NATURE 4K
+http://bamus-eng-roku.amagi.tv/playlist1080p.m3u8
+
+#EXTM3U
+#EXTINF:-1 group-title="KNOWLEDGE" tvg-logo="https://dcassetcdn.com/design_img/3189415/114738/114738_18052718_3189415_d6354865_image.jpg",FISHING TV
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5d4af39510fd17b31a528eda/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+
+#EXTM3U
+#EXTINF:-1 group-title="INDONESIA HD" tvg-logo="https://bit.ly/30EWhNZ",SCTV
+https://visionplus-stream.visionplus.id/live/eds/SCTV-intel/sa_hls/SCTV-intel.m3u8
+
+#EXTM3U
+#EXTINF:-1 group-title="INDONESIA HD" tvg-logo="https://i.ibb.co/tpdTH3m/antvlogo.png",ANTV
+https://visionplus-stream.visionplus.id/live/eds/ANTV-radeon/sa_hls/ANTV-radeon.m3u8
+
+
+
