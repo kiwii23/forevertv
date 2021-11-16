@@ -8,7 +8,7 @@ https://fta.rctiplus.id/live/eds/MNCTV_2021/live_fta/MNCTV_2021.m3u8
 
 #EXTM3U
 #EXTINF:-1 group-title="MALAYSIA" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f5/TV3_%28Malaysia%29.svg/1024px-TV3_%28Malaysia%29.svg.png",TV 3
-http://50.7.161.82:8278/streams/d/TV3/playlist.m3u8
+https://stream-03.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHScibLw0wiAX7Z_Tqd0NjRw)/dm/3/x6qp375/d/live-3.m3u8#cell=lsg1.
 
 #EXTM3U
 #EXTINF:-1 group-title="MALAYSIA" tvg-logo="https://logos.fandom.com/wiki/Astro_Ceria?file=Astro_Ceria_HD.png",ASTRO CERIA
@@ -52,7 +52,7 @@ https://cdngb196.useetv.com/joss/133/net/chunklist_w1367822168_b1344100_sleng.m3
 
 #EXTM3U
 #EXTINF:-1 group-title="INDONESIA HD" tvg-logo="https://www.cleanpng.com/png-rtv-logo-television-channel-rajawali-corporation-r-6360221/",RTV
-https://cdngb196.useetv.com/joss/130/rtv/chunklist_w816199025_b1004100_sleng.m3u8?enc=uxmb0rV3tNmpRfrzFXBDUA&uid=&exp=1637057186
+https://cdn09jtedge.useetv.com/joss/130/rtv/chunklist_w816199025_b1004100_sleng.m3u8?enc=tuFxMRwwrBm3QLctj_PxaA&uid=&exp=1637078115
 
 #EXTM3U
 #EXTINF:-1 group-title="KID" tvg-logo="https://commons.m.wikimedia.org/wiki/File:2014_Disney_Channel_logo.svg",DISNEY CHANNEL
@@ -125,4 +125,8 @@ http://55.banrhfour.xyz.global.prod.fastly.net/live/610303030/index.m3u8
 #EXTM3U
 #EXTINF:-1 group-title="SPORT" tvg-logo="https://www.pinterest.es/pin/587086501420689913#imgViewer ",AR: beIN Sport 6HD
 http://55.banrhfour.xyz.global.prod.fastly.net/live/1515000000/index.m3u8
+
+#EXTM3U
+#EXTINF:-1 group-title="VOD" tvg-logo="https://images.app.goo.gl/XnNi9UUWr2pnUGSS9 ",No Time To Die 2021
+https://kf313l.dood.video/u5kj7nzwnlglsdgge45hypcbjqsldz7jmzatc77smkz3c3utpjthswuqbzla/ydluy4d00f~saqYiXIhNK?token=cfzm2a6ecuwqsq6xa7gc1rql&expiry=1637068567380
 
