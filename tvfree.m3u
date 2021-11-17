@@ -127,6 +127,19 @@ http://55.banrhfour.xyz.global.prod.fastly.net/live/610303030/index.m3u8
 http://55.banrhfour.xyz.global.prod.fastly.net/live/1515000000/index.m3u8
 
 #EXTM3U
-#EXTINF:-1 group-title="VOD" tvg-logo="https://images.app.goo.gl/XnNi9UUWr2pnUGSS9 ",No Time To Die 2021
-https://kf313l.dood.video/u5kj7nzwnlglsdgge45hypcbjqsldz7jmzatc77smkz3c3utpjthswuqbzla/ydluy4d00f~saqYiXIhNK?token=cfzm2a6ecuwqsq6xa7gc1rql&expiry=1637068567380
+#EXTINF:-1 group-title="VOD" tvg-logo="https://images.app.goo.gl/XnNi9UUWr2pnUGSS9 ",No Time To Die 2021 4k
+https://onedrive-danielmy.vercel.app/api?path=/Movies/No.Time.to.Die.2021/No.Time.to.Die.2021.2160p.WEB-DL.DDP5.1.Atmos.HDR.HEVC-NOTIMETOCRY.mkv&amp;raw=true
+
+#EXTM3U
+#EXTINF:-1 group-title="VOD" tvg-logo="https://images.app.goo.gl/XnNi9UUWr2pnUGSS9 ",No Time To Die 2021 FHD
+https://onedrive-danielmy.vercel.app/api?path=/Movies/No.Time.to.Die.2021/No.Time.to.Die.2021.1080p.WEB-DL-ms.en.id-PENCURiMOViE.CYOU.mkv&amp;raw=true
+
+#EXTINF: -1 tvg-logo="https://linear-poster.astro.com.my/prod/logo/National_Geographic_v1.png" group-title="KNOWLEDGE", National Geographic
+http://mantul.biz.id:8888/live/aruba/aruba/8266.m3u8
+
+#EXTINF:-1 tvg-logo="http://mantul.biz.id:8888/images/04459fc48b5427ba6071a0e04aa98379.png" group-title="INDONESIA HD",NET TV FHD
+http://mantul.biz.id:8888/live/aruba/aruba/215.m3u8
+
+#EXTINF:-1 tvg-logo="http://mantul.biz.id:8888/images/4219431aef3a4e3267de8fc7aefc1076.png" group-title="INDONESIA",RTV
+http://mantul.biz.id:8888/live/aruba/aruba/217.m3u8
 
